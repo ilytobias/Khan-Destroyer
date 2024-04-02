@@ -1,2 +1,11 @@
 # Khan-Academy
 A Khan Academy hack made using my other project "JSON Sniff" its pretty simple and badly coded
+# How to use
+Its pretty simple you open main.js then you copy and paste into your browsers respected console.
+# Inspect blocked?
+Put this into a bookmark url.
+```js
+javascript:let q=0;const a=[];const s=JSON.stringify;const p=JSON.parse;JSON={stringify:function(e){return s(e)},parse:function(n){let r=p(n);try{const t=r?.data?.assessmentItem?.item?.itemData;if(typeof t==="string"){const i=p(t).hints;if(Array.isArray(i)&&i.length>0){const u=i[i.length-1].content;console.log(u);a.push(u);q++}}}catch(o){console.error("Error parsing JSON",o)}
+return r},isRawJSON:function(n){try{JSON.parse(n);return!0}catch(r){return!1}},rawJSON:JSON.parse};function c(e){const t=[{regex:/\\dfrac{([^{}]*)}{([^{}]*)}/g,replace:'$1/$2'},{regex:/\$t=/g,replace:'t = '},{regex:/\\sqrt\[3\]{([^}]*)}/g,replace:(e,n)=>Math.pow(parseInt(n),1/3)},{regex:/\\sqrt{([^}]*)}/g,replace:(e,n)=>Math.sqrt(parseInt(n))},{regex:/\\frac{([^}]*)}{([^}]*)}/g,replace:'$1/$2'},{regex:/\\log_{([^}]*)}{([^}]*)}/g,replace:(e,n,r)=>`log(${r})/log(${n})`},{regex:/\\ln{([^}]*)}/g,replace:(e,n)=>`ln(${n})`},{regex:/\\sin{([^}]*)}/g,replace:(e,n)=>`sin(${n})`},{regex:/\\cos{([^}]*)}/g,replace:(e,n)=>`cos(${n})`},{regex:/\\tan{([^}]*)}/g,replace:(e,n)=>`tan(${n})`},{regex:/\\sum_{([^}]*)}^{([^}]*)}{([^}]*)}/g,replace:(e,n,r,t)=>`sum(${t},${n},${r})`},{regex:/\.{3}/g,replace:'...'},{regex:/\\overline{([^}]*)}/g,replace:(e,n)=>`${n}.${n}`},{regex:/\\pink{([^}]*)}/g,replace:'$1'},{regex:/\\blue{([^}]*)}/g,replace:'$1'},{regex:/\$/g,replace:''},{regex:/\{/g,replace:''},{regex:/\}/g,replace:''}];t.forEach(({regex:o,replace:c})=>{e=e.replace(o,c)});return e}
+function g(){const e=document.getElementById('questionInput').value;const t=parseInt(e);if(!Number.isNaN(t)){if(t>=0&&t<a.length){alert(c(a[t]))}else{alert("Please enter a valid question number")}}else{alert("Please enter a valid number")}}
+setInterval(function(){const e=document.querySelectorAll("[type='button']");e.forEach(t=>{if(t.textContent==="Report a problem"){const n=t.parentElement;n.innerHTML=`<input placeholder="Question" value="${q - 1}" id="questionInput" type="number"></input><button onclick="g()">Get answer</button>`}})},1000)```
