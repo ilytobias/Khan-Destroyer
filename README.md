@@ -1,7 +1,7 @@
 # Khan-Academy
 A Khan Academy hack made using my other project "JSON Sniff" its pretty simple and badly coded
 # How to use
-Its pretty simple you open main.js then you copy and paste into your browsers respected console.
+Its pretty simple you open main.js then you copy and paste into your browsers respected console. YOU GOTTA REFRESH THEN PASTE REALLY QUICK OR REFRESH THEN PRESS THE BOOKMARK REALLY QUICK.
 # Inspect blocked?
 Put this into a bookmark url.
 ```js
