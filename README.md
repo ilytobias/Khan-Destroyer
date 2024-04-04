@@ -2,6 +2,12 @@
 
 # About
 This is the best Khan Academy hack up to date. Made by Tobias and btw, join my [Discord](https://discord.gg/bFb2cYCTbs).
+## Features?
+**Anything without a check is planned to be added.**
+- [x] Answer Overwrite
+*This makes the question only have 1 answer so you can go through it fast.*
+- [ ] Answer veiwer
+- [ ] Auto answer
 
 # How to use
 * Drag and drop this into your bookmarks bar
