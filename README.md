@@ -1,6 +1,7 @@
 ![logo](https://github.com/ilytobias/Khan-Academy/assets/165577429/7724b784-032b-4065-9e06-0baf6891f745)
 
 # About
+**I'd spend 5 seconds on each question, its not really needed but if you go to fast it doesnt count that you even did it.**
 This is the best Khan Academy hack up to date. Made by Tobias and btw, join my [Discord](https://discord.gg/bFb2cYCTbs).
 ## Features?
 **Anything without a check is planned to be added.**
