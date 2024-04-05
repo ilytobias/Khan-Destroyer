@@ -1,5 +1,5 @@
+![khanstroyer (2)](https://github.com/ilytobias/Khan-Destroyer/assets/165577429/fcd7fa24-a62c-46c8-bc02-78463bd4c64a)
 
-![khanstroyer](https://github.com/ilytobias/Khan-Destroyer/assets/165577429/b7e5caa4-1be0-4e9d-9dd1-c1fc815fd202)
 (logo made by [orphanlol](https://github.com/orphanlol))
 # About
 **I'd spend 5 seconds on each question, its not really needed but if you go to fast it doesnt count that you even did it.**
