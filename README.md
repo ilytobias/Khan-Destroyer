@@ -1,4 +1,6 @@
-![khanstroyer (2)](https://github.com/ilytobias/Khan-Destroyer/assets/165577429/fcd7fa24-a62c-46c8-bc02-78463bd4c64a)
+<p align="center">
+<img src="https://github.com/ilytobias/Khan-Destroyer/assets/165577429/fcd7fa24-a62c-46c8-bc02-78463bd4c64a" />
+</p>
 
 (logo made by [orphanlol](https://github.com/orphanlol))
 # About
