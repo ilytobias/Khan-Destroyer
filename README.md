@@ -11,10 +11,10 @@ This is the best Khan Academy hack up to date. Made by Tobias and btw, join my [
 *This makes the question only have 1 answer so you can go through it fast.*|
 - [x] Point Farmer.
 *This will be added soon.*
-- [ ] Client side badges, points, ect.
-- [ ] Auto Answer
-- [ ] Answer Viewer
-- [ ] Point Bloater (basically gets you more points)*
+- [ ] Auto Answer. Est: 4/10/2024 9PM
+- [ ] Answer Viewer. Est: 4/11/2024 9PM
+- [ ] Client side badges, points, ect. Est: 4/12/2024 9PM
+- [ ] Point Bloater (basically gets you more points)* ???
 
 *The "\*" means it'll probably not be added/be possible.*
 
