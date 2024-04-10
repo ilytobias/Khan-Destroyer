@@ -4,17 +4,19 @@
 
 (logo made by [orphanlol](https://github.com/orphanlol))
 # About
-**I'd spend 5 seconds on each question, its not really needed but if you go to fast it doesnt count that you even did it.**
 This is the best Khan Academy hack up to date. Made by Tobias and btw, join my [Discord](https://discord.gg/bFb2cYCTbs).
 ## Features?
-**Anything without a check is planned to be added.**
+**Anything without a check is planned to be added soon. (In order of what'll be added.)**
 - [x] Answer Overwrite
-*This makes the question only have 1 answer so you can go through it fast.*
-- [ ] Answer viewer
-- [ ] Auto answer
-- [ ] point bloater (basically gets you more points)*
-* *means probably not
-  
+*This makes the question only have 1 answer so you can go through it fast.*|
+- [ ] Point Farmer.
+*This will be added soon.*
+- [ ] Auto Answer
+- [ ] Answer Viewer
+- [ ] Point Bloater (basically gets you more points)*
+
+*The "\*" means it'll probably not be added/be possible.*
+
 ## This is how your questions will look after using the hack (This will count as answering any question.)
 ![Screenshot 2024-04-03 114349](https://github.com/ilytobias/Khan-Destroyer/assets/165577429/704501ab-e727-47fa-924b-6ae5367f8249)
 
@@ -25,4 +27,4 @@ javascript:if(void 0!==window.e)alert("already ran");else{let e=JSON.parse;JSON.
 ```
 
 * Go on Khan.
-* Press bookmark (you don't need to reload now.)
+* Press bookmark (duh).
