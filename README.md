@@ -9,8 +9,9 @@ This is the best Khan Academy hack up to date. Made by Tobias and btw, join my [
 **Anything without a check is planned to be added soon. (In order of what'll be added.)**
 - [x] Answer Overwrite
 *This makes the question only have 1 answer so you can go through it fast.*|
-- [ ] Point Farmer.
+- [x] Point Farmer.
 *This will be added soon.*
+- [ ] Client side badges, points, ect.
 - [ ] Auto Answer
 - [ ] Answer Viewer
 - [ ] Point Bloater (basically gets you more points)*
@@ -40,6 +41,6 @@ javascript:(function()%7Bwindow.stopped%3Dfalse%3B%0Aif%20(void%200%20%3D%3D%3D%
 * Go on Khan.
 * Press bookmark (duh).
 * If you want to stop it then use this bookmark.
-* ```js
+```js
 javascript:window.stopped=true;
 ```
