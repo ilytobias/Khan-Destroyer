@@ -12,11 +12,13 @@ This is the best Khan Academy hack up to date. Made by Tobias and btw, join my [
 - [x] Point Farmer.
 *Farms many lessons at the same time now.*
 - [x] Auto Answer.
-- [ ] Answer Viewer. Est: 4/12/2024 9PM EST
-- [ ] Client side badges, points, ect. Est: 4/13/2024 9PM EST
+- [ ] Skipper.
+- [ ] Answer Viewer. Est: ???
+- [ ] Client side badges, points, ect. Est: ???
 - [ ] Point Bloater (basically gets you more points)* ???
 
 *The "\*" means it'll probably not be added/be possible.*
+
 
 # Answer Overwrite
 ## What is this?
