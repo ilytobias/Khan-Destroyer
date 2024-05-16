@@ -7,8 +7,9 @@
 
 This is the best Khan academy hack?
 <details>
-  <summary>What makes this the best</summary>
+  <summary>What makes us the best</summary>
     These are all the wonderful features of this cheat.
+  
     **Anything without a check is planned to be added soon. (In order of what'll be added.)**
     - [x] Answer Overwrite
     *This makes the question only have 1 answer so you can go through it fast.*|
