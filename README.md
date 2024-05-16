@@ -3,9 +3,9 @@
 </p>
 
 (logo made by [orphanlol](https://github.com/orphanlol))
-# About
+## About
 
-This is the best Khan academy hack.
+This is the best Khan academy hack, I've spent weeks of my time on this because I hate the way school websites do it, even with Khan being probably one of the best they should all just stop. Most people aren't forced to do Khan but I upsetingly am and I'm sick of the hours of work I have to do for a 10% of my grade which I still really need so I hope anybody who wants this uses it. **Remember nobody's forcing you to use this.**
 <details>
   <summary>Features</summary>
     ## These are all the wonderful features of this cheat.
