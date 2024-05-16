@@ -10,15 +10,15 @@ This is the best Khan academy hack?
   <summary>What makes us the best</summary>
     These are all the wonderful features of this cheat.
   
-  **Anything without a check is planned to be added soon. (In order of what'll be added.)**
-    - [x] Answer Overwrite
-    *This makes the question only have 1 answer so you can go through it fast.*|
-    - [x] Point Farmer.
-    *Farms many lessons at the same time now.*
-    - [x] Auto Answer.
-    - [ ] Skipper.
-    - [ ] Answer Viewer. Est: ???
-    - [ ] Client side badges, points, ect. Est: ???
+**Anything without a check is planned to be added soon. (In order of what'll be added.)**
+- [x] Answer Overwrite
+*This makes the question only have 1 answer so you can go through it fast.*|
+- [x] Point Farmer.
+*Farms many lessons at the same time now.*
+- [x] Auto Answer.
+- [ ] Skipper.
+- [ ] Answer Viewer. Est: ???
+- [ ] Client side badges, points, ect. Est: ???
 </details>
 
 
