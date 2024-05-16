@@ -4,20 +4,21 @@
 
 (logo made by [orphanlol](https://github.com/orphanlol))
 # About
-This is the best Khan Academy hack up to date. Made by Tobias and btw, join my [Discord](https://discord.gg/bFb2cYCTbs).
-## Features?
-**Anything without a check is planned to be added soon. (In order of what'll be added.)**
-- [x] Answer Overwrite
-*This makes the question only have 1 answer so you can go through it fast.*|
-- [x] Point Farmer.
-*Farms many lessons at the same time now.*
-- [x] Auto Answer.
-- [ ] Skipper.
-- [ ] Answer Viewer. Est: ???
-- [ ] Client side badges, points, ect. Est: ???
-- [ ] Point Bloater (basically gets you more points)* ???
 
-*The "\*" means it'll probably not be added/be possible.*
+This is the best Khan academy hack?
+<details>
+  <summary>What makes this the best</summary>
+    These are all the wonderful features of this cheat.
+    **Anything without a check is planned to be added soon. (In order of what'll be added.)**
+    - [x] Answer Overwrite
+    *This makes the question only have 1 answer so you can go through it fast.*|
+    - [x] Point Farmer.
+    *Farms many lessons at the same time now.*
+    - [x] Auto Answer.
+    - [ ] Skipper.
+    - [ ] Answer Viewer. Est: ???
+    - [ ] Client side badges, points, ect. Est: ???
+</details>
 
 
 # Answer Overwrite
