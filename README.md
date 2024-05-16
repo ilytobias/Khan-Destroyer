@@ -26,7 +26,7 @@ This is the best Khan academy hack, I've spent weeks of my time on this because 
 <details>
   <summary>Answer Overwrite</summary>
   
-*This overwrites your questions to look like this.*
+*This overwrites your questions to look like this. Still counts as a correct answer.*
 ![Screenshot 2024-04-03 114349](https://github.com/ilytobias/Khan-Destroyer/assets/165577429/704501ab-e727-47fa-924b-6ae5367f8249)
 * Drag and drop this into your bookmarks bar
 ```js
