@@ -6,6 +6,11 @@
 ## About
 
 This is the best Khan academy hack, I've spent weeks of my time on this because I hate the way school websites do it, even with Khan being probably one of the best they should all just stop. Most people aren't forced to do Khan but I upsetingly am and I'm sick of the hours of work I have to do for a 10% of my grade which I still really need so I hope anybody who wants this uses it. **Remember nobody's forcing you to use this.**
+
+*This is my hack (the second image) VS the [top khan hack](https://github.com/adubov1/khanacademy_bot) (the first image). This still works and is good although mine is arguably better given the fact that you don't have to do any work. And no need for the inspect element console.*
+![image](https://github.com/ilytobias/Khan-Destroyer/assets/165577429/27749e03-6c76-4a0a-89f0-6822885a431e)
+![image](https://github.com/ilytobias/Khan-Destroyer/assets/165577429/83318dc6-0992-4dae-8f2b-4aba24a33749)
+
 <details>
   <summary>Features</summary>
     ## These are all the wonderful features of this cheat.
