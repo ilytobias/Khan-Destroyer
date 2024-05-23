@@ -1,7 +1,3 @@
-<!-- im like 90% sure this doesnt work on github but its still  cool so ill try. -->
-<a class="github-button" href="https://github.com/ilytobias/Khan-Destroyer" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star ilytobias/Khan-Destroyer on GitHub">Star</a>
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
 <p align="center">
   <img src="https://github.com/ilytobias/Khan-Destroyer/assets/165577429/fcd7fa24-a62c-46c8-bc02-78463bd4c64a"/>
 
