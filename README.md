@@ -49,6 +49,7 @@ _This is my hack (the second image) VS the [top khan hack](https://github.com/ad
   <details>
     <summary>Auto Answer Questions</summary>
     
+**[Tutorial](https://www.youtube.com/watch?v=MdiaEcCMZf4)**
   * Drag and drop this into your bookmarks bar
       
   ```js
