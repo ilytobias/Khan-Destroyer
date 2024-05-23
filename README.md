@@ -15,7 +15,8 @@ _This is my hack (the second image) VS the [top khan hack](https://github.com/ad
 
   <details>
     <summary>Features</summary>
-      ## These are all the wonderful features of this cheat.
+
+  ## These are all the wonderful features of this cheat.
     
   **Anything without a check is planned to be added soon. (In order of what'll be added.)**
   - [x] Answer Overwrite
