@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/ilytobias/Khan-Destroyer/assets/165577429/fcd7fa24-a62c-46c8-bc02-78463bd4c64a" />
-    Join the Discord
+  <img src="https://github.com/ilytobias/Khan-Destroyer/assets/165577429/fcd7fa24-a62c-46c8-bc02-78463bd4c64a"/>
+  
+    [Join the Discord](https://discord.gg/pujbPqMyPF)
   
     (logo made by [orphanlol](https://github.com/orphanlol))
   
