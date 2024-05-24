@@ -67,10 +67,12 @@ _This is my hack (shown in the first image) compared to the [top Khan Academy ha
   <details>
     <summary>Energy Point Farmer</summary>
   
-  *This makes you farm alot of Khan Academy energy points.
-  **I wouldn't use this if you don't know what it is, this is useless for normal people***
+* This makes you farm alot of Khan Academy energy points.
+  
+**I wouldn't use this if you don't know what it is, this is useless for normal people***
   <br>
-  ![image](https://github.com/ilytobias/Khan-Destroyer/assets/165577429/c95d39df-6370-4e6a-86ae-b55cb34f6842)
+  
+![image](https://github.com/ilytobias/Khan-Destroyer/assets/165577429/c95d39df-6370-4e6a-86ae-b55cb34f6842)
   
 * Drag and drop this into your bookmarks bar
   
