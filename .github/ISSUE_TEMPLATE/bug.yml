@@ -1,0 +1,62 @@
+
+name: Bug
+description: Report a bug to help me make Khan Academy great again
+labels: [ bug ]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe the bug
+      description: |
+        A clear and concise description of what the issue is.
+        Provide as much information as possible, videos, crash reports, etc.
+    validations:
+      required: true
+  - type: textarea
+    id: reproducing
+    attributes:
+      label: Steps to reproduce
+      description: How do you trigger this bug?
+      render: bash
+    validations:
+      required: true
+  - type: input
+    id: crash-report
+    attributes:
+      label: Link to crash report/log if applicable
+      label: Are you stupid
+
+  - type: dropdown
+    id: operating-systems
+    attributes:
+      label: Operating System
+      options:
+        - macOS
+        - Windows
+        - Linux
+    validations:
+      required: true
+    - type: dropdown
+    id: browsers
+    attributes:
+      label: Browser
+      options:
+        - Microsoft Edge
+        - Chrome
+        - Opera GX
+        - Arc Browser
+        - Spyware
+        - Other
+    validations:
+      required: true
+  - type: checkboxes
+    id: prerequisites
+    attributes:
+      label: Before submitting a bug report
+      options:
+        - label: |
+            This bug wasn't already reported (I have searched bug reports on GitHub).
+          required: true
+        - label: |
+            This is a valid bug (I am able to reproduce this on the latest build).
+          required: true
