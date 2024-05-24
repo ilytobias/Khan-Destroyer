@@ -1,7 +1,9 @@
 <p align="center">
   <img src="https://github.com/ilytobias/Khan-Destroyer/assets/165577429/fcd7fa24-a62c-46c8-bc02-78463bd4c64a"/>
+<div align="center">
 
   (logo made by [orphanlol](https://github.com/orphanlol))
+</div>
   
 ## Support:
 <div align="center">
@@ -10,15 +12,16 @@
 </div>
 
 ## About
+<div align="center">
 
-This is the best Khan Academy hack available. I've dedicated weeks of my time to developing this because I dislike the way school websites operate, even though Khan Academy is one of the better ones. Despite its quality, I believe these platforms should reconsider their approach. While most people aren't required to use Khan Academy, I unfortunately am, and I'm tired of spending hours on it for just 10% of my grade, which I still really need. I hope this hack proves useful to anyone who needs it. **Remember, nobody's forcing you to use this.**
-
-TLDR: This Khan hack is better then the rest.
-
-_This is my hack (shown in the first image) compared to the [top Khan Academy hack](https://github.com/adubov1/khanacademy_bot) (shown in the second image). Although the other hack is still functional and effective, mine is arguably better because it requires no manual work and eliminates the need for the inspect element console._
-
-![image](https://github.com/ilytobias/Khan-Destroyer/assets/165577429/83318dc6-0992-4dae-8f2b-4aba24a33749)
-![image](https://github.com/ilytobias/Khan-Destroyer/assets/165577429/27749e03-6c76-4a0a-89f0-6822885a431e)
+  This is the best Khan Academy hack available. I've dedicated weeks of my time to developing this because I dislike the way school websites operate, even though Khan Academy is one of the better ones. Despite its quality, I believe these platforms should reconsider their approach. While most people aren't required to use Khan Academy, I unfortunately am, and I'm tired of spending hours on it for just 10% of my grade, which I still really need. I hope this hack proves useful to anyone who needs it. **Remember, nobody's forcing you to use this.**
+  
+  TLDR: This Khan hack is better then the rest.
+  
+  _This is my hack (shown in the first image) compared to the [top Khan Academy hack](https://github.com/adubov1/khanacademy_bot) (shown in the second image). Although the other hack is still functional and effective, mine is arguably better because it requires no manual work and eliminates the need for the inspect element console._
+  
+  ![image](https://github.com/ilytobias/Khan-Destroyer/assets/165577429/83318dc6-0992-4dae-8f2b-4aba24a33749)
+  ![image](https://github.com/ilytobias/Khan-Destroyer/assets/165577429/27749e03-6c76-4a0a-89f0-6822885a431e)
 
   <details>
     <summary>Features</summary>
@@ -35,7 +38,7 @@ _This is my hack (shown in the first image) compared to the [top Khan Academy ha
   - [ ] Answer Viewer. Est: ???
   - [ ] Client side badges, points, ect. Est: ???
   </details>
-  
+</div>
    ## Hacks
    
   <details>
