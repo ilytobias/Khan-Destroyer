@@ -22,7 +22,7 @@
   
   ![image](https://github.com/ilytobias/Khan-Destroyer/assets/165577429/83318dc6-0992-4dae-8f2b-4aba24a33749)
   ![image](https://github.com/ilytobias/Khan-Destroyer/assets/165577429/27749e03-6c76-4a0a-89f0-6822885a431e)
-
+</div>
   <details>
     <summary>Features</summary>
 
@@ -38,9 +38,8 @@
   - [ ] Answer Viewer. Est: ???
   - [ ] Client side badges, points, ect. Est: ???
   </details>
-</div>
+  
    ## Hacks
-   
   <details>
     <summary>Answer Overwrite</summary>
     
