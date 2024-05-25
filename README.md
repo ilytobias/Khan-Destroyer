@@ -4,7 +4,7 @@
   (logo made by [orphanlol](https://github.com/orphanlol))
 </div>
   
-## Support:
+## Support
 <div align="center">
   
   Join the [Discord](https://discord.gg/pujbPqMyPF), Or Star this repo, thank you.
