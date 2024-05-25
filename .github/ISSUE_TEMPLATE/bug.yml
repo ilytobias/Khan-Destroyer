@@ -36,7 +36,7 @@ body:
         - Linux
     validations:
       required: true
-    - type: dropdown
+  - type: dropdown
     id: browsers
     attributes:
       label: Browser
