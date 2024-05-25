@@ -1,7 +1,6 @@
-
 name: Suggestion
 description: Suggest a new feature or change for Khan Destroyer.
-labels: [ enhancement ] [ fucking feature ]
+labels: [ enhancement ]
 body:
   - type: textarea
     id: description
@@ -16,7 +15,7 @@ body:
       label: Before submitting a suggestion
       options:
         - label: |
-            This feature doesn't already exist, or hasn't already been rejected.
+            This feature doesn't already exist.
           required: true
         - label: |
             This wasn't already suggested. (I have searched suggestions on GitHub and read the FAQ)
