@@ -39,6 +39,7 @@ Go ahead and read out source code at `/orignal`
   - [x] Point Farmer.
   *Farms many lessons at the same time now.*
   - [x] Auto Answer.
+  - [ ] Check if answer is correct without pressing check. Thanks to `u/lovelifepeeps`
   - [ ] Skipper.
   - [ ] Answer Viewer. Est: ???
   - [ ] Client side badges, points, ect. Est: ???
