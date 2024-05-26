@@ -1,4 +1,5 @@
 ## Hacks
+<div align="center">
   <details>
     <summary>Answer Overwrite</summary>
     
@@ -51,3 +52,4 @@
 * Press bookmark.
   
   </details>
+</div>
