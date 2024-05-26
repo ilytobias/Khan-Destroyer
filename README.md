@@ -3,11 +3,12 @@
 
   (logo made by [orphanlol](https://github.com/orphanlol))
 </div>
-  
+
 ## Support
 <div align="center">
   
-  Join the [Discord](https://discord.gg/pujbPqMyPF), Or Star this repo, thank you.
+  Join the [Discord](https://discord.gg/pujbPqMyPF), or star this repo, thank you. <br>
+  Running `beta.js` shows the answer if you're opting for a less subtle version of Khan Destroyer.
 </div>
 
 ## About
