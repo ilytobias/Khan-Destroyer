@@ -1,5 +1,5 @@
 <p align="center">
-  looking for the cheats? moved it <a href ="https://github.com/orphanlol/Khan-Destroyer/blob/funny/HACKS.md">here</a> <br>
+  Looking for the cheats? Moved it <a href ="https://github.com/orphanlol/Khan-Destroyer/blob/funny/HACKS.md">here</a> <br>
 <img src="https://github.com/ilytobias/Khan-Destroyer/assets/165577429/fcd7fa24-a62c-46c8-bc02-78463bd4c64a"/ width="500" height="500"><div align="center">
 
   (logo made by [orphanlol](https://github.com/orphanlol))
@@ -14,6 +14,9 @@
 
 ## About
 <div align="center">
+
+**Don't trust us? Too good to be true?**
+Go ahead and read out source code at `/orignal`
 
 **Important** <br> Most of these are bookmarklets, which you drag to your browser. <br><br>
   This is the best Khan Academy hack available. I've dedicated weeks of my time to developing this because I dislike the way school websites operate, even though Khan Academy is one of the better ones. Despite its quality, I believe these platforms should reconsider their approach. While most people aren't required to use Khan Academy, I unfortunately am, and I'm tired of spending hours on it for just 10% of my grade, which I still really need. I hope this hack proves useful to anyone who needs it. **Remember, nobody's forcing you to use this.**
