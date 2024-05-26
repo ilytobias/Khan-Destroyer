@@ -25,10 +25,10 @@
   ![image](https://github.com/ilytobias/Khan-Destroyer/assets/165577429/83318dc6-0992-4dae-8f2b-4aba24a33749)
   ![image](https://github.com/ilytobias/Khan-Destroyer/assets/165577429/27749e03-6c76-4a0a-89f0-6822885a431e)
 </div>
-  <details>
-    <summary>Features</summary>
 
-  ## These are all the wonderful features of this cheat.
+  ## Features
+
+  #### These are all the great features of this cheat.
     
   **Anything without a check is planned to be added soon. (In order of what'll be added.)**
   - [x] Answer Overwrite
@@ -39,5 +39,5 @@
   - [ ] Skipper.
   - [ ] Answer Viewer. Est: ???
   - [ ] Client side badges, points, ect. Est: ???
-  </details> <br>
+  <br>
   </p>
