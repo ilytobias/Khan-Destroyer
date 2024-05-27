@@ -1,6 +1,5 @@
-
+[< Go back](https://github.com/ilytobias/Khan-Destroyer)
 # Answer Overwrite
-<div align="center">
   
   **[Tutorial](https://www.youtube.com/watch?v=kM1oWRX2_TU)**
   <details>
@@ -10,7 +9,6 @@
   
   ![Screenshot 2024-04-03 114349](https://github.com/ilytobias/Khan-Destroyer/assets/165577429/704501ab-e727-47fa-924b-6ae5367f8249)
   </details>
-</div>
 
 * Drag and drop this into your bookmarks bar
   
