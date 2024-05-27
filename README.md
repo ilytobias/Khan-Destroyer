@@ -11,10 +11,10 @@
 ## Userscripts
 
 * Get a userscript provider like [Tampermoney](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) Or [Greasyfork](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/).
-* Install this [userscript](https://github.com/ilytobias/Khan-Destroyer/blob/main/userscript.user.js), (This is only for the hack Answer Overwrite, for more choice please use the bookmark method.)
+* Choose a userscript [Answer Overwrite](https://github.com/ilytobias/Khan-Destroyer/raw/main/cheats/overwrite.user.js), (For more selection please use the Bookmarklet method.)
 * Go on a Khan lesson and it will be loaded
   
-## Bookmark
+## Bookmarklet
 
 * Choose a hack [Answer Overwrite](https://github.com/ilytobias/Khan-Destroyer/blob/main/cheats/answer_overwrite.md), [Auto Answer](https://github.com/ilytobias/Khan-Destroyer/blob/main/cheats/auto_answer.md), [Answer Revealer](https://github.com/ilytobias/Khan-Destroyer/blob/main/cheats/show_answers.md)
 * Follow directions on the page it opens. 
