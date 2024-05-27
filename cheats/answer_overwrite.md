@@ -13,7 +13,7 @@
 * Drag and drop this into your bookmarks bar
   
 ```js
-Code
+javascript:this is example code...
 ```  
 * Go on Khan.
 * Press bookmark.
