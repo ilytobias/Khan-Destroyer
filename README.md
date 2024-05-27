@@ -15,5 +15,5 @@
   
 ## Bookmark
 
-* Choose a hack [Answer Overwrite](testd), [Auto answer](tesdt), [Show Answers](tesdt)
+* Choose a hack [Answer Overwrite](https://github.com/ilytobias/Khan-Destroyer/blob/main/cheats/answer_overwrite.md), [Auto answer](tesdt), [Show Answers](tesdt)
 * Follow directions on the page it opens. 
