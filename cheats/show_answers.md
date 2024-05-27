@@ -5,7 +5,7 @@
   <details>
     <summary>What does this do?</summary>
     
-  *It shows the answer to questions..*
+  *It shows the answer to questions. Without the weird format like the other hacks.*
   
  ![image](https://github.com/ilytobias/Khan-Destroyer/assets/165577429/0a03776e-bb84-44c3-bc53-410564e0995b)
 
