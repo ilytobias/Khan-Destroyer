@@ -1,3 +1,4 @@
+
 <img src="https://github.com/ilytobias/Khan-Destroyer/assets/165577429/fcd7fa24-a62c-46c8-bc02-78463bd4c64a"/ width="500" height="500"><div align="center">
 
   (logo made by [orphanlol](https://github.com/orphanlol))
@@ -19,4 +20,4 @@
 * Follow directions on the page it opens. 
 
 # Safe?
-Yes, there have been **no** recorded cases of a Khan account being banned for hacks. Also if you're asking if this is a virus it is 100% open sourced forever so you can look through the code to see for yourself.
+Yes this is safe, there have been **no** recorded cases of a Khan account being banned for hacks. Also if you're asking if this is a virus it is 100% open sourced forever so you can look through the code to see for yourself.
