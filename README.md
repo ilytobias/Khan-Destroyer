@@ -3,7 +3,7 @@
 
   (logo made by [orphanlol](https://github.com/orphanlol))
 
-  Join the [Discord](discord.gg/pujbPqMyPF)
+  Join the [Discord](https://discord.gg/pujbPqMyPF)
 </div>
 
 # Download
