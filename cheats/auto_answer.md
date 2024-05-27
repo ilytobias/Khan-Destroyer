@@ -28,3 +28,5 @@ javascript:window.stopped=true
 ```  
 * Go on Khan.
 * Press bookmark.
+  <br>
+![khanthing](https://github.com/ilytobias/Khan-Destroyer/assets/165577429/7a77ee4e-8d84-4135-b97c-5408b16f780b)
