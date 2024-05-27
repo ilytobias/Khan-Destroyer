@@ -24,4 +24,5 @@ Yes this is safe, there have been **no** recorded cases of a Khan account being 
 
 # Support
 I don't want to take money for this so if you would like to support me you can star the Github, it really motivates me to update as much as I can.
+<br>
 ![image](https://github.com/ilytobias/Khan-Destroyer/assets/165577429/673061fc-c131-423b-a81b-daf862b96493)
