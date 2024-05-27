@@ -1,5 +1,5 @@
 [< Go back](https://github.com/ilytobias/Khan-Destroyer)
-# Answer shower
+# Answer revealer
   
   **Tutorial coming soon...**
   <details>
