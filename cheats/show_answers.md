@@ -18,3 +18,5 @@ javascript:if(window.e!==undefined){alert("already ran")}else{let n=JSON.parse;J
 ```  
 * Go on Khan.
 * Press bookmark.
+  <br>
+![khanthing](https://github.com/ilytobias/Khan-Destroyer/assets/165577429/7a77ee4e-8d84-4135-b97c-5408b16f780b)
