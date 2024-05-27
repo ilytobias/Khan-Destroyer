@@ -17,4 +17,5 @@ javascript:if(void 0!==window.e)alert("This has already been ran!");else{let n=J
 ```  
 * Go on Khan.
 * Press bookmark.
+  <br>
 ![khanthing](https://github.com/ilytobias/Khan-Destroyer/assets/165577429/7a77ee4e-8d84-4135-b97c-5408b16f780b)
