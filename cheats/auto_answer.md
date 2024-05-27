@@ -19,7 +19,7 @@ javascript:(function()%20%7B%0A%20%20%20%20window.stopped%20%3D%20false%3B%0A%20
 * Go on Khan.
 * Press bookmark.
 
-## Stopped
+## Stop
 
 * Drag and drop this into your bookmarks bar
   
