@@ -16,7 +16,7 @@
   
 ## Bookmark
 
-* Choose a hack [Answer Overwrite](https://github.com/ilytobias/Khan-Destroyer/blob/main/cheats/answer_overwrite.md), [Auto answer](https://github.com/ilytobias/Khan-Destroyer/blob/main/cheats/auto_answer.md), [Show Answers](https://github.com/ilytobias/Khan-Destroyer/blob/main/cheats/show_answers.md)
+* Choose a hack [Answer Overwrite](https://github.com/ilytobias/Khan-Destroyer/blob/main/cheats/answer_overwrite.md), [Auto Answer](https://github.com/ilytobias/Khan-Destroyer/blob/main/cheats/auto_answer.md), [Answer Revealer](https://github.com/ilytobias/Khan-Destroyer/blob/main/cheats/show_answers.md)
 * Follow directions on the page it opens. 
 
 # About
