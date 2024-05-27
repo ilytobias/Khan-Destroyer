@@ -9,11 +9,11 @@
 
 ## Userscripts
 
-* Get a userscript provider like (Tampermoney)[https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo] Or (Greasyfork)[https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/].
-* Install this (userscript)[], (This is only for the hack Answer Overwrite, for more choice please use the bookmark method.)
+* Get a userscript provider like [Tampermoney](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo] Or [Greasyfork](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/).
+* Install this [userscript](), (This is only for the hack Answer Overwrite, for more choice please use the bookmark method.)
 * Go on a Khan lesson and it will be loaded
   
 ## Bookmark
 
-* Choose a hack (Answer Overwrite)[], (Auto answer)[], (Show Answers)[]
+* Choose a hack [Answer Overwrite](), [Auto answer](), [Show Answers]()
 * Follow directions on the page it opens. 
