@@ -9,6 +9,8 @@
 # Download
 
 ## Userscripts
+**You can only run one userscript at a time or else it will break both.**
+<br>
 
 * Get a userscript provider like [Tampermoney](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) Or [Greasyfork](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/).
 * Choose a userscript [Answer Overwrite](https://github.com/ilytobias/Khan-Destroyer/raw/main/cheats/overwrite.user.js), [Answer Revealer](https://github.com/ilytobias/Khan-Destroyer/raw/main/cheats/revealer.user.js) (For more selection please use the Bookmarklet method.)
