@@ -19,4 +19,4 @@
 * Follow directions on the page it opens. 
 
 # Safe?
-Yes, there have been **no** recorded cases of a khan account being banned for hacks. Also if you're asking if this is a virus it is 100% open sourced forever so you can look through the code to see for yourself.
+Yes, there have been **no** recorded cases of a Khan account being banned for hacks. Also if you're asking if this is a virus it is 100% open sourced forever so you can look through the code to see for yourself.
