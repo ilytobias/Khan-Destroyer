@@ -1,11 +1,11 @@
 [< Go back](https://github.com/ilytobias/Khan-Destroyer)
 # Energy point farmer
   
-  **No Tutorial Available for this cheat.**
+  **No tutorial available or provided for this cheat.**
   <details>
     <summary>What does this do?</summary>
     
-  *This makes it so you can have alot of Energy Points in Khan academy, this is a more complicated cheat and unneeded for most unless you're trying to get on the leaderboard.*
+  *This makes it so you can have alot of Energy Points in Khan academy, this is a more complicated cheat and unneeded for most unless you're trying to get on the leaderboard. (this is also funny)*
   
    ![image](https://github.com/ilytobias/Khan-Destroyer/assets/165577429/c95d39df-6370-4e6a-86ae-b55cb34f6842)
   </details>
