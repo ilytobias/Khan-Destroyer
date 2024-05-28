@@ -7,7 +7,8 @@
 </div>
 
 # Download
-
+(below lol) <br>
+**a skipper is in progress**
 ## Userscripts
 **You can only run one userscript at a time or else it will break both.**
 <br>
@@ -24,7 +25,8 @@
 # About
 
 ## Safe?
-Yes this is safe, there have been **zero** recorded cases of a Khan account being banned for hacks. Also if you're asking if this is a virus it is 100% open sourced forever so you can look through the code to see for yourself.
+Yes this is safe, there have been **zero** recorded cases of a Khan account being banned for hacks (at least for now). <br>
+Also if you're asking if this is a virus it is 100% open sourced forever so you can look through the code to see for yourself. <br>
 
 ## Support
 I don't want to take money for this so if you would like to support me you can star the Github, it really motivates me to update as much as I can.
