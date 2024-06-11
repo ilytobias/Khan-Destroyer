@@ -21,9 +21,11 @@
   
 ## Bookmarklet
 
-* Choose a hack [Answer Overwrite](https://github.com/ilytobias/Khan-Destroyer/blob/main/cheats/answer_overwrite.md), [Auto Answer](https://github.com/ilytobias/Khan-Destroyer/blob/main/cheats/auto_answer.md), [Answer Revealer](https://github.com/ilytobias/Khan-Destroyer/blob/main/cheats/show_answers.md), Or if you know what you're doing you can try the [Energy Point Farmer](https://github.com/ilytobias/Khan-Destroyer/blob/main/cheats/farmer.md)
+* Choose a hack [Answer Overwrite](https://github.com/ilytobias/Khan-Destroyer/blob/main/cheats/answer_overwrite.md), [Auto Answer](https://github.com/ilytobias/Khan-Destroyer/blob/main/cheats/auto_answer.md), [Answer Revealer](https://github.com/ilytobias/Khan-Destroyer/blob/main/cheats/show_answers.md), or if you know what you're doing you can try the [Energy Point Farmer](https://github.com/ilytobias/Khan-Destroyer/blob/main/cheats/farmer.md)
 * Follow directions on the page it opens. 
 
+<br><br>
+* Want to test new cheats? Go [here](https://github.com/orphanlol/Khan-Destroyer/tree/main/beta) for beta hacks, which may be moved out of the branch once they're ready! The minute hack is in beta right now, go [here](https://github.com/orphanlol/Khan-Destroyer/blob/main/beta/min_hack.md) to test it and follow the steps there!
 # About
 
 ## Safe?
