@@ -12,7 +12,6 @@
 </div>
 
 # Download Options
-**a skipper is in progress**
 ## Userscripts
 **You can only run one userscript at a time or else it will break both.**
 <br>
