@@ -11,8 +11,7 @@
   You can also provide suggestions.
 </div>
 
-# Download
-(below lol) <br>
+# Download Options
 **a skipper is in progress**
 ## Userscripts
 **You can only run one userscript at a time or else it will break both.**
