@@ -11,6 +11,8 @@
   You can also provide suggestions.
 </div>
 
+*try out [this hack](https://github.com/DoxrGitHub/Khan-Destroyer-Sourced)*
+
 # Download Options
 ## Userscripts
 **You can only run one userscript at a time or else it will break both.**
