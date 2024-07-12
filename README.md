@@ -6,7 +6,9 @@
 
   (logo made by [orphanlol](https://github.com/orphanlol))
 
-  Join the [Discord](https://discord.gg/pujbPqMyPF) for support and information! Our community is welcome to friendly discussion about Khan Destroyer.
+  ### Discord
+
+  Join the **[Discord](https://discord.gg/pujbPqMyPF)** for support and information! Our community is welcome to friendly discussion about Khan Destroyer.
 
   You can also provide suggestions.
 </div>
