@@ -1,4 +1,6 @@
 > [!IMPORTANT]
+> [!focusing on other things. will update probably september.]
+> [!IMPORTANT]
 > [Você fala protugeuese?](https://youtu.be/Sj4zYObsz9E)
 
 <div align="center">
