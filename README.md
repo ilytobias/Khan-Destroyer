@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> [focusing on other things. will update probably september.]
+> Update est: friday
 
 > [!IMPORTANT]
 > [Você fala protugeuese?](https://youtu.be/Sj4zYObsz9E)
