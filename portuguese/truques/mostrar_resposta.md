@@ -1,4 +1,4 @@
-[< Go back](https://github.com/ilytobias/Khan-Destroyer/tree/main/portuguese)
+[< Volte](https://github.com/ilytobias/Khan-Destroyer/tree/main/portuguese)
 # Revelador de respostas
   
   <details>
