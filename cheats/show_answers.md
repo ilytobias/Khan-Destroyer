@@ -1,7 +1,6 @@
 [< Go back](https://github.com/ilytobias/Khan-Destroyer)
 # Answer revealer
   
-  **Tutorial coming soon...**
   <details>
     <summary>What does this do?</summary>
     
