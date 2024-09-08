@@ -28,7 +28,7 @@ Para mais seleção, use o método Bookmarklet.)
   
 ## Bookmarklet (método preferido)
 
-* Escolha um hack [Responder Substituir](https://github.com/ilytobias/Khan-Destroyer/blob/main/portuguese/truques/resposta_substituir.md), [Resposta automática](https://github.com/ilytobias/Khan-Destroyer/blob/main/portuguese/truques/resposta-automatica.md), [Revelador de respostas](https://github.com/ilytobias/Khan-Destroyer/blob/main/cheats/show_answers.md).
+* Escolha um hack [Responder Substituir](https://github.com/ilytobias/Khan-Destroyer/blob/main/portuguese/truques/resposta_substituir.md), [Resposta automática](https://github.com/ilytobias/Khan-Destroyer/blob/main/portuguese/truques/resposta-automatica.md), [Revelador de respostas](https://github.com/ilytobias/Khan-Destroyer/blob/main/portuguese/truques/mostrar_resposta.md).
 * Siga as instruções na página que ela abre. 
 
 # About
