@@ -1,6 +1,6 @@
 [< Volte](https://github.com/ilytobias/Khan-Destroyer/tree/main/portuguese)
 # Revelador de respostas
-  
+  [Tutorial](https://www.youtube.com/watch?v=jOo70-3Y8Bc) 
   <details>
     <summary>O que isso faz?</summary>
     
