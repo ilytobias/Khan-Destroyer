@@ -28,7 +28,7 @@ Para mais seleção, use o método Bookmarklet.)
   
 ## Bookmarklet (método preferido)
 
-* Escolha um hack [Responder Substituir](https://github.com/ilytobias/Khan-Destroyer/blob/main/portuguese/truques/resposta_substituir.md), [Resposta automática](https://github.com/ilytobias/Khan-Destroyer/blob/main/portuguese/truques/resposta-automatica.md), [Revelador de respostas](https://github.com/ilytobias/Khan-Destroyer/blob/main/portuguese/truques/mostrar_resposta.md), ou se você sabe o que está fazendo, pode experimentar o [Energy Point Farmer](https://github.com/ilytobias/Khan-Destroyer/blob/main/cheats/agricultor.md)
+* Escolha um hack [Responder Substituir](https://github.com/ilytobias/Khan-Destroyer/blob/main/portuguese/truques/resposta_substituir.md), [Resposta automática](https://github.com/ilytobias/Khan-Destroyer/blob/main/portuguese/truques/resposta-automatica.md), [Revelador de respostas](https://github.com/ilytobias/Khan-Destroyer/blob/main/portuguese/truques/mostrar_resposta.md), ou se você sabe o que está fazendo, pode experimentar o [Energy Point Farmer](https://github.com/ilytobias/Khan-Destroyer/blob/main/portuguese/truques/farmer.md)
 * Siga as instruções na página que ela abre. 
 
 # Sobre
