@@ -1,3 +1,10 @@
+// @version      1.0
+// @description  Khan hack 
+// @author       IlyTobias (github@ilytobias)
+// @match        https://*.khanacademy.org/*
+// @grant        none
+// ==/UserScript==
+
 if (typeof originalParse === "undefined") {
     window.originalParse = JSON.parse;
 }
