@@ -1,37 +1,47 @@
-// ==UserScript==
-// @name         Khan answer revealer
-// @version      1.0
-// @description  Khan hack 
-// @author       IlyTobias (github@ilytobias)
-// @match        https://*.khanacademy.org/*
-// @grant        none
-// ==/UserScript==
-
-let n = JSON.parse;
-JSON.parse = function (t) {
-    let e = n(t);
-    try {
-        let t = JSON.parse(e.data.assessmentItem.item.itemData);
-        t.question.content = t.question.content + "[[☃ explanation 2]]";
-        console.log(t);
-        t.question.widgets["explanation 2"] = {
-            alignment: "default"
-            , graded: true
-            , options: {
-                explanation: t.hints[t.hints.length - 1].content
-                , hidePrompt: "Hide"
-                , showPrompt: "Answer"
-                , static: false
-                , widgets: t.hints[t.hints.length - 1].widgets
-            }
-            , static: false
-            , type: "explanation"
-            , version: {
-                major: 0
-                , minor: 0
-            }
-        };
-        e.data.assessmentItem.item.itemData = JSON.stringify(t)
-    } catch (t) {}
-    return e
+if (typeof originalParse === "undefined") {
+    window.originalParse = JSON.parse;
 }
+
+JSON.parse = function (a, t) {
+    let n = originalParse(a, t);
+    try {
+        const lessonData = JSON.parse(n.data.assessmentItem.item.itemData);
+        
+        const isPortuguese = location.hostname.split(".")[0] === "pt";
+        
+        if (lessonData.question && lessonData.question.content && 
+            lessonData.question.content[1] === lessonData.question.content[1].toUpperCase()) {
+
+            console.log(lessonData);
+            lessonData.question.content += "\n [[☃ explanation 3]] [[☃ explanation 4]]";
+
+            lessonData.question.widgets["explanation 3"] = {
+                alignment: "default",
+                graded: true,
+                options: {
+                    explanation: lessonData.hints[lessonData.hints.length - 1].content,
+                    hidePrompt: isPortuguese ? "Ocultar" : "Hide", 
+                    showPrompt: isPortuguese ? "Resposta" : "Answer", 
+                    static: false,
+                    widgets: lessonData.hints[lessonData.hints.length - 1]
+                }
+            };
+
+            lessonData.question.widgets["explanation 4"] = {
+                options: {
+                    explanation: isPortuguese ? "discord.gg/khanacademy" : "discord.gg/khanacademy", 
+                    hidePrompt: "", 
+                    showPrompt: isPortuguese ? "Discord" : "Discord" 
+                }
+            };
+
+            n.data.assessmentItem.item.itemData = JSON.stringify(lessonData);
+        }
+    } catch (error) {
+        console.error("Error parsing lesson data:", error);
+    }
+
+    return n;
+};
+
+console.error = function() {};
