@@ -8,7 +8,7 @@
 
   ### Discord
 
-  Join the **[Discord](https://discord.gg/pujbPqMyPF)** for support and information! Our community is welcome to friendly discussion about Khan Destroyer.
+  Join the **[Discord](https://discord.gg/hzhbfcThbq)** for support and information! Our community is welcome to discussion about Khan.
 
   You can also provide suggestions.
 </div>
@@ -24,17 +24,17 @@
   
 ## Bookmarklet (perfered method)
 
-* Choose a hack [Answer Overwrite](https://github.com/ilytobias/Khan-Destroyer/blob/main/cheats/answer_overwrite.md), [Auto Answer](https://github.com/ilytobias/Khan-Destroyer/blob/main/cheats/auto_answer.md), [Answer Revealer](https://github.com/ilytobias/Khan-Destroyer/blob/main/cheats/show_answers.md), [Minute Farmer](https://github.com/ilytobias/Khan-Destroyer/blob/main/cheats/minute_farmer.md), or if you know what you're doing you can try the [Energy Point Farmer](https://github.com/ilytobias/Khan-Destroyer/blob/main/cheats/farmer.md)
+* Choose a hack [Answer Overwrite](https://github.com/ilytobias/Khan-Destroyer/blob/main/cheats/answer_overwrite.md), [Auto Answer](https://github.com/ilytobias/Khan-Destroyer/blob/main/cheats/auto_answer.md), [Answer Revealer](https://github.com/ilytobias/Khan-Destroyer/blob/main/cheats/show_answers.md)
 * Follow directions on the page it opens. 
 
 # About
 
 ## Safe?
-Yes this is safe, there have been **zero** recorded cases of a Khan account being banned for hacks (at least for now). <br>
+Yes this is safe, there have been **zero** recorded cases of a Khan account being banned for hacks (they've started fixing the hack but nothing against users.). <br>
 Also if you're asking if this is a virus it is 100% open sourced forever so you can look through the code to see for yourself. <br>
 
 ## Support
-Star the repo, or join the discord. I will be adding a paid tier later (base hacks still free)
+Star the repo, or join the discord.
 <br>
 ![image](https://github.com/ilytobias/Khan-Destroyer/assets/165577429/673061fc-c131-423b-a81b-daf862b96493)
 
