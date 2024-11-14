@@ -1,0 +1,54 @@
+/ @versão 1.0
+// @description Khan hack
+// @autor IlyTobias (github@ilytobias)
+// @match https://*.khanacademy.org/*
+// @grant nenhum
+// ==/Script do Usuário==
+
+se (tipo de originalParse === "indefinido") {
+    janela.originalParse = JSON.parse;
+}
+
+JSON.parse = função (a, t) {
+    deixe n = originalParse(a, t);
+    tentar {
+        const lessonData = JSON.parse(n.data.assessmentItem.item.itemData);
+        
+        const éPortuguês = localização.nomedohost.split(".")[0] === "pt";
+        
+        se (lesãoData.pergunta && liçãoData.pergunta.conteúdo &&
+            Dadosdalição.pergunta.conteúdo[1] === Dadosdalição.pergunta.conteúdo[1].toUpperCase()) {
+
+            console.log(Dadosdalição);
+            lessonData.question.content += "\n [[☃ explicação 3]] [[☃ explicação 4]]";
+
+            lessonData.question.widgets["explicação 3"] = {
+                alinhamento: "padrão",
+                classificado: verdadeiro,
+                opções: {
+                    explicação: lessonData.hints[lessonData.hints.length - 1].content,
+                    hidePrompt: éPortuguês? "Ocultar" : "Ocultar",
+                    showPrompt: éPortuguês? "Resposta" : "Responder",
+                    estático: falso,
+                    widgets: lessonData.hints[lessonData.hints.length - 1]
+                }
+            };
+
+            lessonData.question.widgets["explicação 4"] = {
+                opções: {
+                    explicação: éPortuguês ? "discord.gg/khanacademy" : "discord.gg/khanacademy",
+                    ocultarPrompt: "",
+                    showPrompt: éPortuguês? "Discórdia": "Discórdia"
+                }
+            };
+
+            n.data.assessmentItem.item.itemData = JSON.stringify(lessonData);
+        }
+    } pegar (erro) {
+        console.error("Erro ao analisar dados da lição:", error);
+    }
+
+    retornar n;
+};
+
+console.error = função() {};
