@@ -6,7 +6,7 @@
   <img src="https://github.com/ilytobias/Khan-Destroyer/assets/165577429/fcd7fa24-a62c-46c8-bc02-78463bd4c64a" width="500" height="500" />
   
   ## Features
-
+</div>
 > **Best Khan exploit on the market.**  
 > Fast, stealthy, customizable, and fully open-source.
 
@@ -17,11 +17,10 @@
 - 🛠️ Bookmarklet, no install needed
 - 🌐 Supports English & Portuguese
 
-  **Brought to you by Platform Destroyer
+  **Brought to you by**
+  
   <img src=" https://cdn.discordapp.com/banners/1357569800884326564/a_328ae1efca38081de3100837669f5862.webp?size=480&animated=true" width="200" height="200" />
  
-</div>
-
 # Download
 
 ## Bookmarklet
