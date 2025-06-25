@@ -1,4 +1,4 @@
-> [!IMPORTANTE]
+> [!IMPORTANT]
 > [Github Translated to English](https://github.com/ilytobias/Khan-Destroyer)
 
 <div align="center">
