@@ -176,19 +176,6 @@ if (!JSON.parse._hooked) {
                         minor: 0
                     }
                 };
-                overwrite.question.widgets["explanation 2"] = {
-                    type: "explanation",
-                    options: {
-                        explanation: JSON.stringify(overwrite.question, null, 2),
-                        hidePrompt: "x",
-                        showPrompt: "Discord"
-                    },
-                    version: {
-                        major: 0,
-                        minor: 0
-                    }
-                };
-            }
 
             d.assessmentItem.item.itemData = JSON.stringify(overwrite);
         }
