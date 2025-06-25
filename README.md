@@ -3,7 +3,8 @@
 
 <div align="center">
   <img src="https://github.com/ilytobias/Khan-Destroyer/assets/165577429/fcd7fa24-a62c-46c8-bc02-78463bd4c64a" width="500" height="500" />
-  ### Discord
+  
+  ## Discord
 
   Join the **[Discord](https://discord.gg/platformdestroyer)** For alot of yap.
 
@@ -22,11 +23,11 @@ javascript:(function(){ let html=document.documentElement.outerHTML; const scrip
 
 Then open any Khan Academy lesson and click the bookmark to inject the hack.
 
-## Safe?
+### Safe?
 
 Yes. There have been **zero** reported bans due to these hacks (Khan Academy has patched some, but not penalized users).  
 This project is **100% open source** so you can audit the code anytime.
 
-## Support
+### Support
 
 **Star the repo** or join the Discord for updates and help.
