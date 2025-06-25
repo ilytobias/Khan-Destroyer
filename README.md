@@ -5,11 +5,21 @@
   
   <img src="https://github.com/ilytobias/Khan-Destroyer/assets/165577429/fcd7fa24-a62c-46c8-bc02-78463bd4c64a" width="500" height="500" />
   
-  ## Discord
+  ## Features
 
-  Join the **[Discord](https://discord.gg/platformdestroyer)** For alot of yap.
+> **Best Khan exploit on the market.**  
+> Fast, stealthy, customizable, and fully open-source.
 
-  You can also provide suggestions.
+- ✅ Auto-answer questions
+- 🎥 Skip videos
+- ⏱️ Unfreeze minute counter
+- 🌈 RGB mode for visuals
+- 🛠️ Bookmarklet, no install needed
+- 🌐 Supports English & Portuguese
+
+  **Brought to you by Platform Destroyer
+  <img src=" https://cdn.discordapp.com/banners/1357569800884326564/a_328ae1efca38081de3100837669f5862.webp?size=480&animated=true" width="200" height="200" />
+ 
 </div>
 
 # Download
@@ -31,4 +41,4 @@ This project is **100% open source** so you can audit the code anytime.
 
 ### Support
 
-**Star the repo** or join the Discord for updates and help.
+**Star the repo** or join the **[Discord](https://discord.gg/platformdestroyer)** for updates and help.
