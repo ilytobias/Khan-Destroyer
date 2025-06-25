@@ -18,9 +18,12 @@
 - 🛠️ Bookmarklet, no install needed
 - 🌐 Supports English & Portuguese
 
+<div align="center">
+
   **Brought to you by**
   
-  ![pd](https://github.com/user-attachments/assets/d79b4ef1-a4c3-4f7c-bafe-2af969b72535)
+  [![pd](https://github.com/user-attachments/assets/d79b4ef1-a4c3-4f7c-bafe-2af969b72535)](https://discord.gg/platformdestroyer)
+</div>
  
 # Download
 
