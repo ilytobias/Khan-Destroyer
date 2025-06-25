@@ -1,5 +1,5 @@
 > [!IMPORTANTE]
-> [GitHub traduzido para o português](https://github.com/ilytobias/Khan-Destroyer/tree/main/portuguese)
+> [Github Translated to English](https://github.com/ilytobias/Khan-Destroyer)
 
 <div align="center">
   
