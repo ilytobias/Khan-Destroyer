@@ -18,6 +18,8 @@
 - 🛠️ Bookmarklet, no install needed
 - 🌐 Supports English & Portuguese
 
+This is a **educational** debugging tool that isn't *meant* to be used on any public-production versions of Khan Academy.
+
 <div align="center">
 
   **Brought to you by**
@@ -35,12 +37,16 @@ Copy the entire code below and save it as a bookmark URL (or drag this link to y
 javascript:(function(){ let html=document.documentElement.outerHTML; const scripts=`<script src="https://cdn.jsdelivr.net/gh/ilytobias/Khan-Destroyer@main/cheats/main.js" defer></script><script src="https://cdn.jsdelivr.net/gh/ilytobias/Khan-Destroyer@main/cheats/build.js" defer></script>`; html=html.replace('</body>',scripts+'</body>'); console.clear(); document.open(); document.write(html); document.close(); window._menuInitAfterProgress=false; })();
 ```
 
-Then open any Khan Academy lesson and click the bookmark to inject the hack.
+Then run it on a lesson, and youll see the menu on the left
+![image](https://github.com/user-attachments/assets/4701cce7-4854-4ac9-8ed2-9877a9693621)
 
-### Safe?
+### Safety
 
-Yes. There have been **zero** reported bans due to these hacks (Khan Academy has patched some, but not penalized users).  
-This project is **100% open source** so you can audit the code anytime.
+## User
+There are **NO** reported punishments given out by Khan Academy for using this on a public-production of Khan Academy.
+
+## Privacy
+At this time, we collect **NO** information on the user. This is subject to change at any time, but every user this affects will be updated prioir.
 
 ### Support
 
