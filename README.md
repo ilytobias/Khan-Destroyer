@@ -38,16 +38,17 @@ javascript:(function(){ let html=document.documentElement.outerHTML; const scrip
 ```
 
 Then run it on a lesson, and youll see the menu on the left
+
 ![image](https://github.com/user-attachments/assets/4701cce7-4854-4ac9-8ed2-9877a9693621)
 
-### Safety
+## Safety
 
-## User
+### User
 There are **NO** reported punishments given out by Khan Academy for using this on a public-production of Khan Academy.
 
-## Privacy
+### Privacy
 At this time, we collect **NO** information on the user. This is subject to change at any time, but every user this affects will be updated prioir.
 
-### Support
+## Support
 
 **Star the repo** or join the **[Discord](https://discord.gg/platformdestroyer)** for updates and help.
