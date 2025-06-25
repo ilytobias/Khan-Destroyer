@@ -7,6 +7,7 @@
   
   ## Features
 </div>
+
 > **Best Khan exploit on the market.**  
 > Fast, stealthy, customizable, and fully open-source.
 
@@ -19,7 +20,7 @@
 
   **Brought to you by**
   
-  <img src=" https://cdn.discordapp.com/banners/1357569800884326564/a_328ae1efca38081de3100837669f5862.webp?size=480&animated=true" width="200" height="200" />
+  ![pd](https://github.com/user-attachments/assets/d79b4ef1-a4c3-4f7c-bafe-2af969b72535)
  
 # Download
 
