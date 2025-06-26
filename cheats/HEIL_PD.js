@@ -1,5 +1,5 @@
-if(document.getElementById("content-library-content-title")) {
-  if(window._kd) return;
+if(document.getElementById("content-library-content-title")!==null) {
+  if(!window._kd) {
   window._kd = 1;
   const s = `
     <script src="https://cdn.jsdelivr.net/gh/ilytobias/Khan-Destroyer@main/cheats/main.js" defer></script>
@@ -9,6 +9,7 @@ if(document.getElementById("content-library-content-title")) {
   document.open();
   document.write(h);
   document.close();
+  }
 } else {
-  alert("Please run in a lesson\nPor favor, execute em uma lição");
+  alert("EN: Please run in a lesson\n PT:Por favor, execute em uma lição");
 }
