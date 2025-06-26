@@ -93,7 +93,7 @@ class Tools {
 
 window.exp = window.exp || {
     Overwrite: {
-        enabled: false,
+        enabled: true,
         automate: false,
         delay: 3
     },
