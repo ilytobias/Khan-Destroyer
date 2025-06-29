@@ -180,8 +180,8 @@ function buildUI() {
 }
 
 function refreshFooter() {
-    document.getElementsByClassName("_1e104hfr")[0]?.remove();
-    document.getElementsByClassName("_1mzlqz11")[0]?.remove();
+    document.getElementsByClassName("_wyrmata")[0]?.remove();
+    document.getElementsByClassName("_1t2167pq")[0]?.remove();
     document.getElementsByClassName("_18sj7phn")[0].innerHTML=`<a class="_1w88iq7y" href="https://discord.gg/platformdestroyer">Discord</a><a class="_1w88iq7y" href="https://github.com/ilytobias/Khan-Destroyer/">Github</a>`
 }
 
