@@ -136,14 +136,15 @@ if (!JSON.parse._hooked) {
 
             if (exp.Overwrite.enabled) {
                 overwrite.question.content = `${
-            location.hostname.startsWith("pt") ? "Selecione uma opção" : "Select an option"
-          }\n\n[[☃ radio 1]]`;
+                    location.hostname.startsWith("pt") ? "Selecione uma opção" : "Select an option"
+                }\n\n[[☃ radio 1]]`;
 
                 overwrite.question.widgets = {
                     "radio 1": {
                         type: "radio",
                         options: {
-                            choices: [{
+                            choices: [
+                                {
                                     content: location.hostname.startsWith("pt") ? "Correcto" : "Correct",
                                     correct: true
                                 },
@@ -171,18 +172,21 @@ if (!JSON.parse._hooked) {
                         hidePrompt: "x",
                         showPrompt: "Answer"
                     },
-                version: {
-                    major: 0,
-                    minor: 0
-                }
-            };
+                    version: {
+                        major: 0,
+                        minor: 0
+                    }
+                };
+            } 
+
+            d.assessmentItem.item.itemData = JSON.stringify(overwrite);
         }
 
-        d.assessmentItem.item.itemData = JSON.stringify(overwrite);
-    }
+        return data;
+    };
+    JSON.parse._hooked = true;
+}
 
-    return data;
-};
 
 if (!window._origFetch) {
     window._origFetch = window.fetch;
