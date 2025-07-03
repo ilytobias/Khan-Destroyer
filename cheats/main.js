@@ -171,19 +171,18 @@ if (!JSON.parse._hooked) {
                         hidePrompt: "x",
                         showPrompt: "Answer"
                     },
-                    version: {
-                        major: 0,
-                        minor: 0
-                    }
-                };
-
-            d.assessmentItem.item.itemData = JSON.stringify(overwrite);
+                version: {
+                    major: 0,
+                    minor: 0
+                }
+            };
         }
 
-        return data;
-    };
-    JSON.parse._hooked = true;
-}
+        d.assessmentItem.item.itemData = JSON.stringify(overwrite);
+    }
+
+    return data;
+};
 
 if (!window._origFetch) {
     window._origFetch = window.fetch;
