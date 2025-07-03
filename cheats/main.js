@@ -1,3 +1,15 @@
+window.exp = window.exp || {
+    Overwrite: {
+        enabled: true,
+        automate: false,
+        delay: 3
+    },
+    showAnswer: false,
+    videoSpoof: true,
+    stopTimer: true,
+    rgb: false
+};
+
 class Tools {
     static log(label, color, val) {
         console.log(`%c${label}:`, `color: ${color}; font-weight: bold;`, val);
@@ -90,18 +102,6 @@ class Tools {
         window._menuReady = false;
     }
 }
-
-window.exp = window.exp || {
-    Overwrite: {
-        enabled: true,
-        automate: false,
-        delay: 3
-    },
-    showAnswer: false,
-    videoSpoof: true,
-    stopTimer: true,
-    rgb: false
-};
 
 try {
     const saved = localStorage.getItem("platformDestroyerSettings");
