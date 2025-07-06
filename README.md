@@ -34,7 +34,7 @@ This is a **educational** debugging tool that isn't *meant* to be used on any pu
 Copy the entire code below and save it as a bookmark URL (or drag this link to your bookmarks bar):  
 
 ```
-javascript:const ALL="HEIL_PD";fetch("https://cdn.jsdelivr.net/gh/ilytobias/Khan-Destroyer@main/cheats/"+ALL+".js").then(r=>r.text()).then(eval);
+javascript:fetch("https://cdn.jsdelivr.net/gh/ilytobias/Khan-Destroyer@main/cheats/min.js").then(r=>r.text()).then(eval);
 ```
 
 Then run it on a lesson, and youll see the menu on the left
