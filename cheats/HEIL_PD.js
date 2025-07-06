@@ -1,1 +1,0 @@
-async function loadScript(r){return new Promise(((e,t)=>{const o=document.createElement("script");o.src=r,o.onload=()=>e(),o.onerror=()=>t(new Error(`Failed to load ${r}`)),document.head.appendChild(o)}))}(async()=>{try{await loadScript("https://cdn.jsdelivr.net/gh/ilytobias/Khan-Destroyer@main/cheats/min.js")}catch(r){console.error("Error loading scripts:",r)}})();
