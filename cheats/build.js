@@ -180,9 +180,15 @@ function buildUI() {
 }
 
 function refreshFooter() {
-    document.getElementsByClassName("_wyrmata")[0]?.remove();
-    document.getElementsByClassName("_1t2167pq")[0]?.remove();
-    document.getElementsByClassName("_18sj7phn")[0].innerHTML=`<a class="_1w88iq7y" href="https://discord.gg/platformdestroyer">Discord</a><a class="_1w88iq7y" href="https://github.com/ilytobias/Khan-Destroyer/">Github</a>`
+    document.getElementsByClassName("_1e104hfr")[0]?.remove();
+    document.getElementsByClassName("_1mzlqz11")[0]?.remove();
+
+    const footer = document.getElementsByClassName("._1fzkfbec")[0];
+    if (footer) {
+        footer.innerHTML = `
+        <a class="_1w88iq7y" href="https://github.com/ilytobias/Khan-Destroyer" target="_blank">Github</a>
+        <a class="_1w88iq7y" href="https://discord.gg/platformdestroyer" target="_blank">Discord</a>`;
+    }
 }
 
 function init() {
@@ -192,3 +198,5 @@ function init() {
     addRgbCss();
     if (exp.rgb) toggleRgb(true);
 }
+Tools.reload()
+init()
