@@ -94,8 +94,7 @@ class Tools {
             }, 200);
           })();
         <\/script>`;
-
-        console.clear();
+        console.log("------------------------------------------------")
         document.open();
         document.write(`<!DOCTYPE html><html lang="en">${html}</html>${boot}`);
         document.close();
