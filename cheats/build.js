@@ -118,15 +118,17 @@ function refreshFooter() {
 }
 
 function init() {
-  const menuReady = document.querySelector("._13hsycvc");
-  const footerReady = document.querySelector("._1fzkfbec");
-  const uiReady = document.querySelector(`[data-testid="learnable-content-cells"]`);
-  if (!menuReady || !footerReady || !uiReady) return setTimeout(init, 250);
-  getMenu();
-  buildUI();
-  refreshFooter();
-  addRgbCss();
-  if (exp.rgb) toggleRgb(true);
+  try{
+    const menuReady = document.querySelector("._13hsycvc");
+    const footerReady = document.querySelector("._1fzkfbec");
+    const uiReady = document.querySelector(`[data-testid="learnable-content-cells"]`);
+    if (!menuReady || !footerReady || !uiReady) return setTimeout(init, 250);
+    getMenu();
+    buildUI();
+    refreshFooter();
+    addRgbCss();
+    if (exp.rgb) toggleRgb(true);
+  } catch (e) {}
 }
 
 Tools.reload();
