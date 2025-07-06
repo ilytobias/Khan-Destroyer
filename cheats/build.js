@@ -108,9 +108,13 @@ function buildUI() {
 function refreshFooter() {
   document.querySelector("._1e104hfr")?.remove();
   document.querySelector("._1mzlqz11")?.remove();
+
   const footer = document.querySelector("._1fzkfbec");
-  if (!footer) return;
-  footer.innerHTML = `<a class="_1w88iq7y" href="https://github.com/ilytobias/Khan-Destroyer" target="_blank">Github</a><a class="_1w88iq7y" href="https://discord.gg/platformdestroyer" target="_blank">Discord</a>`;
+  if (!footer) return setTimeout(refreshFooter, 250);
+
+  footer.innerHTML = `
+    <a class="_1w88iq7y" href="https://github.com/ilytobias/Khan-Destroyer" target="_blank">Github</a>
+    <a class="_1w88iq7y" href="https://discord.gg/platformdestroyer" target="_blank">Discord</a>`;
 }
 
 function init() {
